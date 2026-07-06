@@ -21,4 +21,4 @@ A web-based application for managing product enquiries, part numbers, dashboards
 
 ## Project Status
 
-🚧 Under Development
+Under Development
